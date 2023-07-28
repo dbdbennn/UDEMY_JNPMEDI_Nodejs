@@ -9,5 +9,8 @@
     "start-server": "node app.js"
   },
   "author": "Maximilian Schwarzmüller",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
