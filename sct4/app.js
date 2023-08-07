@@ -6,4 +6,4 @@ console.log(routes.someText);
 
 const server = http.createServer(routes.handler);
 
-server.listen(1234);
+server.listen(3000);
